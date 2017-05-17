@@ -1,4 +1,4 @@
-# Rankia Devs
+# Rankia Dev Team
 
 Repositorio del equipo de desarrollo de [Rankia](https://www.rankia.com) y [Verema](https://www.verema.com) en el que comentamos aspectos de cultura de equipo y metodologías de trabajo.
 
