@@ -11,7 +11,7 @@
 * Revisamos nuestro código vía Pull Requests. Nada pasa a master sin que haya sido aprobado por al menos otro miembro del equipo.
 * Testamos nuestro código, o justificamos por qué en un caso concreto no es necesario hacerlo.
 * Siempre tratamos de dejar el código mejor que cuando lo encontramos por primera vez.
-* Siempre dejamos el código legible para el resto del equipo y nuestros yos del futuro. Generalmente haremos caso a las herramientas automáticas, que están basadas en convenciones con sentido, pero siempre teniendo en mente que lo importante es que las personas puedan entender el código.
+* Siempre dejamos el código legible para el resto del equipo y nuestros yos del futuro. Generalmente haremos caso a las herramientas automáticas, que están basadas en convenciones con sentido y ampliamente extendidas, pero lo ignoraremos cuando su versión deje el código menos legible.
 * Cuidamos la imagen que proyectamos al exterior entregando productos de los que nos sentimos orgullosos. Para ello es fundamental ponernos en el lugar del usuario y pensar en cómo va a utilizar cada nueva funcionalidad.
 
 ## Eficiencia
